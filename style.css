@@ -139,7 +139,8 @@ footer {
     }
 
     header {
-        display: flex;  
+        display: flex; 
+        height: 140px; 
         flex-direction: row;  
         justify-content: space-evenly;   
         align-items: center;  
